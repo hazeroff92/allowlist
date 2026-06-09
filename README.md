@@ -1,2 +1,2 @@
 # allowlist
-## my allowlist for pi-hole
+my allowlist for pi-hole
