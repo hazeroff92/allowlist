@@ -1,0 +1,13 @@
+# Discord
+discord.com
+discord.gg
+
+# YouTube 
+youtube.com
+youtu.be
+
+# GitHub 
+github.com
+githubusercontent.com
+ghcr.io
+raw.githubusercontent.com
