@@ -11,3 +11,6 @@ github.com
 githubusercontent.com
 ghcr.io
 raw.githubusercontent.com
+
+# AI
+google.gemini.com
