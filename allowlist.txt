@@ -14,3 +14,17 @@ raw.githubusercontent.com
 
 # AI
 google.gemini.com
+
+# VK video (cause i watch tv shows in russian dub here)
+
+cdn.vk.com
+vk-cdn.net
+*.vk-cdn.net
+cs1.vk-cdn.net
+cs2.vk-cdn.net
+cs3.vk-cdn.net
+cs4.vk-cdn.net
+vkuservideo.net
+*.vkuservideo.net
+vkuseraudio.net
+*.vkuseraudio.net
