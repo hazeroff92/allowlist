@@ -8,9 +8,11 @@ youtu.be
 
 # GitHub 
 github.com
+api.github.com
 githubusercontent.com
 ghcr.io
-raw.githubusercontent.com
+github.io
+ghe.com
 
 # AI
 google.gemini.com
